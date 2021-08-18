@@ -12,6 +12,7 @@ void main()
     double saldo;
     char sexo;
     bool matriculado;
-    
-    //seção de comandos 
+
+    printf("%d %.2f\n", 34, 5.6);
+ 
 }
