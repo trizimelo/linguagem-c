@@ -13,6 +13,7 @@ int main(){
         printf("Digite X:");
         scanf("%d",&x);
         media = media + x;
+        n1++;
     }
         printf("%f",media/n);
 
