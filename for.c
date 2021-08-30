@@ -9,6 +9,5 @@ void main(){
         soma = soma + x;
     }
     printf("Soma: %d",soma);
-    
 
 }
