@@ -1,2 +1,2 @@
 # linguagem-c
- learning  C
+ Apenas registrando meus estudos aqui ;D
